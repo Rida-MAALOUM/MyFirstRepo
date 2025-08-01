@@ -1,0 +1,2 @@
+This course has helped me understand the basics of Git, GitHub, and version control. 
+I've learned how to track changes, work with branches, and collaborate more effectively.
